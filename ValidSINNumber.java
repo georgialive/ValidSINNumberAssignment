@@ -1,5 +1,6 @@
 package ThirdComputerScienceAssignmentValidSINNumber;
 
+import java.util.Math;
 import java.util.Random;
 import java.util.Scanner;
 
